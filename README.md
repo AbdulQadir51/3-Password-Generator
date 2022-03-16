@@ -1,6 +1,6 @@
 ## Password-Generator
 
-Cloned the original code and worked on it:So
+Cloned the original code and worked on it :
 
 To secure password when you click the button to generate a password you will be presented with a series of prompts for password criteria.
 Then you wpuld be prompted for  password criteria then you select which criteria to include in the password
