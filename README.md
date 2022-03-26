@@ -12,3 +12,7 @@ When the password is generated the passwrod is displayed on the page
 ![Screenshot 1](https://abdulqadir51.github.io/3-Password-Generator/password%20generator.JPG)
 
 ![Screenshot 2](https://abdulqadir51.github.io/3-Password-Generator/password%20generator%202.JPG)
+
+[Deployed link here](https://abdulqadir51.github.io/3-Password-Generator/)
+
+
