@@ -9,9 +9,9 @@ Then you wpuld be prompted for  password criteria then you select which criteria
 When all prompts are answered then a password is generated that matches the selected criteria
 When the password is generated the passwrod is displayed on the page
 
-![Screenshot 1](https://abdulqadir51.github.io/3-Password-Generator/password%20generator.JPG)
+![Screenshot 1](assets/images/screenshot1.JPG)
 
-![Screenshot 2](https://abdulqadir51.github.io/3-Password-Generator/password%20generator%202.JPG)
+![Screenshot 2](assets/images/screenshot2.JPG)
 
 [Deployed link here](https://abdulqadir51.github.io/3-Password-Generator/)
 
